@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-# this class represented an undirected graph
+# this class represents an undirected graph
 class Graph: 
     
     def __init__(self):
